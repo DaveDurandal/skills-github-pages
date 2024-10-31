@@ -1,5 +1,5 @@
 ---
-Testing: Welcome to my blog
+Title: Welcome to my blog
 ---
 
-This is a test
+ This is a test
